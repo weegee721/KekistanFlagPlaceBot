@@ -6,7 +6,7 @@ This repository is meant to sync users to draw an image in a specific place at a
 
 HOW TO JOIN THE TEAM:
 
-In chrome go to http://www.reddit.com/r/place then:
+In chrome go to https://www.reddit.com/place?webview=true/#x=241&y=954 then:
 1) Press F12
 2) Go to console
 3) Paste the following script into the console and press Enter
