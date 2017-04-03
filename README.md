@@ -10,7 +10,7 @@ In chrome go to http://www.reddit.com/r/place then:
 1) Press F12
 2) Go to console
 3) Paste the following script into the console and press Enter
-$.ajax("https://raw.githubusercontent.com/weegee721/place/master/script.js").success(function(data) { eval(data) });
+$.ajax("https://raw.githubusercontent.com/weegee721/KekistanFlagPlaceBot/master/script.js").success(function(data) { eval(data) });
 4) Sit back and watch!
 
 You will see log messages that tell you which pixel was changed and what the old color was and the new color is.
@@ -18,9 +18,6 @@ You will see log messages that tell you which pixel was changed and what the old
 TEST IT OUT:
 
 Change "var test = false;" to "var test = true;"
-
-HOW TO SUBMIT AN IMAGE FOR CONSIDERATION:
-1) Submit a pull request to https://github.com/anonymouskek/place/blob/master/sync.json
 
 Note: If you want to add the transparent color, specify -1 as the color value. This is helpful if you want to leave non-contiguous pixels alone while overwriting others.
 
