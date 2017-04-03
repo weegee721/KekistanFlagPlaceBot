@@ -6,7 +6,7 @@
     console.log('Loaded /r/place Cooridination Script');
     $.ajaxSetup({ cache: false });
     var getData = function(action) {
-        $.getJSON('https://raw.githubusercontent.com/weegee721/KekistanFlagPlaceBot/master/sync.json', function(data) {
+        $.getJSON('https://raw.githubusercontent.com/weegee721/KekistanFlagPlaceBot/master/kek.json', function(data) {
             action(data);
         });
     },
