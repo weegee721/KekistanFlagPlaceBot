@@ -24,3 +24,5 @@ Note: If you want to add the transparent color, specify -1 as the color value. T
 IS THIS SAFE?
 
 All the script does is poll the github repository for a new sync.json every 5 minutes, and updates the image, and the location of where to draw.
+
+Credit To https://github.com/anonymouskek/place for the original script
