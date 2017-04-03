@@ -26,3 +26,4 @@ IS THIS SAFE?
 All the script does is poll the github repository for a new sync.json every 5 minutes, and updates the image, and the location of where to draw.
 
 Credit To https://github.com/anonymouskek/place for the original script
+also to https://greasyfork.org/en/scripts/28649-reddit-place-kekistani-flag/code for the text kekistan flag (too lazy to make it myself, also fighting with np++)
