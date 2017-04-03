@@ -30,5 +30,3 @@ Credit To https://github.com/anonymouskek/place for the original script
 and anonkek https://github.com/anonkek/Place_Wall
 
 also to https://greasyfork.org/en/scripts/28649-reddit-place-kekistani-flag/code for the text kekistan flag (too lazy to make it myself, also fighting with np++)
-
-Use naow https://github.com/anonkek/Place_Wall
