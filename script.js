@@ -69,7 +69,7 @@
         
         var options = null;
         var syncData = function() {
-            $.getJSON('https://raw.githubusercontent.com/anonymouskek/place/master/sync.json', function(data) {
+            $.getJSON('https://raw.githubusercontent.com/weegee721/KekistanFlagPlaceBot/master/sync.json', function(data) {
                 options = data;
             });  
         };
